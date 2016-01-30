@@ -8,3 +8,8 @@
  * Version: 0.0.1
  * License: GPLv2
  */
+
+/**
+ * Include the shortcodes
+ */
+require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/gist.php' );
