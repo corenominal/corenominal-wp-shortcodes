@@ -13,3 +13,4 @@
  * Include the shortcodes
  */
 require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/gist.php' );
+require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/loop-tag.php' );
