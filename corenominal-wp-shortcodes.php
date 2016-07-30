@@ -9,6 +9,10 @@
  * License: GPLv2
  */
 
+ /**
+  * Include metabox in editor to show available custom shortcodes
+  */
+require_once( plugin_dir_path( __FILE__ ) . 'metabox.php' );
 /**
  * Include the shortcodes
  */
