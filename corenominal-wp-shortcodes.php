@@ -18,3 +18,4 @@ require_once( plugin_dir_path( __FILE__ ) . 'metabox.php' );
  */
 require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/gist.php' );
 require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/loop-tag.php' );
+require_once( plugin_dir_path( __FILE__ ) . 'shortcodes/github-project.php' );

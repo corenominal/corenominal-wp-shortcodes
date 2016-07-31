@@ -29,6 +29,9 @@ function corenominal_metabox_shortcode_callback( $post )
             <br><br>
             <strong>Loop Tag</strong> (<em>shows related posts by tag</em>)<br>
             Usage: <code>[corenominal-loop-tag tag=foo per_page=30]</code>
+			<br><br>
+            <strong>GitHub Project</strong> (<em>clone and download buttons, plus recent commit history</em>)<br>
+            Usage: <code>[corenominal-github-project repo=foo]</code>
 		</div>
 	</div>
 
