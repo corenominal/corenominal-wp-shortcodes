@@ -1,4 +1,5 @@
 <?php
+if ( ! defined( 'WPINC' ) ) { die('Direct access prohibited!'); }
 /**
  * Plugin Name: corenominal's Custom Shortcodes
  * Description: This plugin provides custom shortcodes for my site.

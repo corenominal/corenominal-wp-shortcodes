@@ -1,4 +1,5 @@
 <?php
+if ( ! defined( 'WPINC' ) ) { die('Direct access prohibited!'); }
 /**
  * Github Gists
  * Usage: [gist url="https://gist.github.com/corenominal/0efedf14eca28453a58e"]
