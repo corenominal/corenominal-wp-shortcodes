@@ -30,7 +30,7 @@ function corenominal_shortcode_loop_tag( $atts, $content = null )
 
 	if ( $query->have_posts() ) :
 		$data .= '<h3>Related Posts</h3>';
-		$data .= '<ul class="related-posts">';
+		$data .= '<ul class="date-list related-posts">';
 		while ( $query->have_posts() ):
 			$query->the_post();
 			$data .= '<li>';
